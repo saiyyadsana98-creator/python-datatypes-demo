@@ -5,7 +5,7 @@ To understand Python data types, type conversion, error handling, and dynamic ty
 
 ## Tools Used
 - Python
-- VS Code / Jupyter Notebook / Google Colab
+- VS Code 
 
 ## Work Done
 - Declared variables of different data types
